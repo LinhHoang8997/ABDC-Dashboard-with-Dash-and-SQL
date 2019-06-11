@@ -8,4 +8,4 @@ This an exercise in using **Postgres SQL** to store and query data. I transforme
 
 <a href="https://ibb.co/9bSvF9f"><img src="https://i.ibb.co/ByFPXV7/erdplus-diagram.png" alt="erdplus-diagram" border="0"></a>
 
-**Dash** is a new to me, but my skills will improve with time.
+**Dash** and `plotly` is a new thing to me, but my skills will improve with time.
