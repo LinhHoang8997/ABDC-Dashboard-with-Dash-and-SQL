@@ -8,8 +8,8 @@ This an exercise in using **Postgres SQL** to store and query data. I transforme
 
 <a href="https://ibb.co/9bSvF9f"><img src="https://i.ibb.co/ByFPXV7/erdplus-diagram.png" alt="erdplus-diagram" border="0"></a>
 
-**Dash** and Plotly are new to me, but my skills will improve with time.
+*Dash* and *Plot.ly* are all new to me, but my skills will improve with time.
 
-*Update June 2019:*
+**Update June 2019:**
 I managed to make my first dashboard page.
 <a href="https://ibb.co/fqhLtBb"><img src="https://i.ibb.co/LYLH6bM/image.png" alt="image" border="0"></a>
