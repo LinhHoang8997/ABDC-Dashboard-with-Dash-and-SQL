@@ -10,6 +10,6 @@ This an exercise in using **Postgres SQL** to store and query data. I transforme
 
 **Dash** and Plotly are new to me, but my skills will improve with time.
 
-_Update June 2019:_
+*Update June 2019:*
 I managed to make my first dashboard page.
 <a href="https://ibb.co/xLV0w4x"><img src="https://i.ibb.co/4tBGCQh/image.png" alt="image" border="0"></a>
