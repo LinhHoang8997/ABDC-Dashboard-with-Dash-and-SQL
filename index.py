@@ -4,13 +4,13 @@ from dash.dependencies import Input, Output
 from app import server
 from app import app
 
-from layouts import home, fail
+from layouts import leak_product, fail
 # There will be more as I add more pages
 
 # import callbacks
 # I will write callbacks.py later.
 
-app.index_string = ''' 
+app.index_string = '''
 <!DOCTYPE html>
 <html>
     <head>
@@ -42,8 +42,8 @@ app.layout = html.Div([
 @app.callback(Output('page-content', 'children'),[Input('url', 'pathname')])
 
 def display_page(pathname):
-    if pathname == '/home/':
-        return home
+    if pathname == '/leak_product/':
+        return leak_product
     else:
         return fail
 
