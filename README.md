@@ -15,4 +15,6 @@ I made my first dashboard view along with a rudimentary layout. My next goal is 
 
 <a href="https://ibb.co/PDRKhVB"><img src="https://i.ibb.co/WVQZyRS/image.png" alt="image" border="0"></a>
 <hr>
-<a href="https://ibb.co/bg30L4w"><img src="https://i.ibb.co/GvJ6kZY/image.png" alt="image" border="0"></a>
+
+<a href="https://ibb.co/ctpTb26"><img src="https://i.ibb.co/WFdKDBk/image.png" alt="image" border="0"></a>
+Hue and size represent the dollar amount of sales leakage. Axes in `plotly` are difficult to work with, but I'll add to axis title when I can.
