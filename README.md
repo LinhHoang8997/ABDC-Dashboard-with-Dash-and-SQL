@@ -13,4 +13,4 @@ This an exercise in using **Postgres SQL** to store and query data. I transforme
 **Update June 2019:**
 I managed to make my first dashboard page.
 
-<a href="https://ibb.co/fqhLtBb"><img src="https://i.ibb.co/LYLH6bM/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/PDRKhVB"><img src="https://i.ibb.co/WVQZyRS/image.png" alt="image" border="0"></a>
