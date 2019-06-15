@@ -11,8 +11,8 @@ This an exercise in using **Postgres SQL** to store and query data. I transforme
 *Dash* and *Plot.ly* are all new to me, but my skills will improve with time.
 
 **Update June 2019:**
-I managed to make my first dashboard page.
+I made my first dashboard view along with a rudimentary layout. My next goal is to get another view and host the app via the Google App Engine.
 
 <a href="https://ibb.co/PDRKhVB"><img src="https://i.ibb.co/WVQZyRS/image.png" alt="image" border="0"></a>
-
+<hr>
 <a href="https://ibb.co/bg30L4w"><img src="https://i.ibb.co/GvJ6kZY/image.png" alt="image" border="0"></a>
